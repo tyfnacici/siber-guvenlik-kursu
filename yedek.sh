@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 # Yedek almak için fonksiyon
 backup_files() {
     local source_dir="$1"
